@@ -1,0 +1,27 @@
+{
+  "name": "pienut",
+  "version": "1.7.1",
+  "description": "An MVC wrapper on top of ExpressJS and Mongoose",
+  "main": "server.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahfuzurrahman98/Pienut.git"
+  },
+  "author": "Md Mahfuzur Rahman Arif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahfuzurrahman98/Pienut/issues"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.1"
+  },
+  "homepage": "https://github.com/mahfuzurrahman98/Pienut#readme"
+}
